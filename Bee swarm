@@ -952,6 +952,7 @@ ExtraPage.BackgroundTransparency = 1
 ExtraPage.Position = UDim2.new(0, 0, 0.127000034, 0)
 ExtraPage.Size = UDim2.new(0, 530, 0, 174)
 ExtraPage.Visible = false
+ExtraPage.Draggable = true
 ExtraPage.CanvasSize = UDim2.new(0, 0, 3, 0)
 ExtraPage.ScrollBarThickness = 5
 
